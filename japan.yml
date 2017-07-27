@@ -1,0 +1,188 @@
+---
+:hokkaido:
+  :wakkanai: '011000'
+  :asahikawa: '012010'
+  :rumoishi: '012020'
+  :abashiri: '013010'
+  :kitami: '013020'
+  :monbetsu: '013030'
+  :nemuro: '014010'
+  :kushiro: '014020'
+  :obihiro: '014030'
+  :muroran: '015010'
+  :urakawa: '015020'
+  :sapporo: '016010'
+  :iwamizawa: '016020'
+  :kutchan: '016030'
+  :hakodate: '017010'
+  :esashi: '017020'
+:aomori:
+  :aomori: '020010'
+  :mutsu: '020020'
+  :hachinohe: '020030'
+:iwate:
+  :morioka: '030010'
+  :miyako: '030020'
+  :ofunato: '030030'
+:miyagi:
+  :sendai: '040010'
+  :miyako: '040020'
+:akita:
+  :akita: '050010'
+  :yokote: '050020'
+:yamagata:
+  :yamagata: '060010'
+  :yonezawa: '060020'
+  :sakata: '060030'
+  :shinjo: '060040'
+:fukushima:
+  :fukushima: '070010'
+  :onahama: '070020'
+  :wakamatsu: '070030'
+:ibaraki:
+  :mito: '080010'
+  :tsuchiura: '080020'
+:tochigi:
+  :utsunomiya: '090010'
+  :ohtawara: '090020'
+:gunma:
+  :maebashi: '100010'
+  :minakami: '100020'
+:saitama:
+  :saitama: '110010'
+  :kumagaya: '110020'
+  :chichibu: '110030'
+:chiba:
+  :chiba: '120010'
+  :choshi: '120020'
+  :tateyama: '120030'
+:tokyo:
+  :tokyo: '130010'
+  :oshima: '130020'
+  :hachijojima: '130030'
+  :chichijima: '130040'
+:kanagawa:
+  :yokohama: '140010'
+  :odawara: '140020'
+:niigata:
+  :niigata: '150010'
+  :nagaoka: '150020'
+  :kotsu: '150030'
+  :aikawa: '150040'
+:toyama:
+  :ntoyama: '160010'
+  :fushiki: '160020'
+:ishikawa:
+  :kanazawa: '170010'
+  :wajima: '170020'
+:fukui:
+  :fukui: '180010'
+  :tsuruga: '180020'
+:yamanashi:
+  :kofu: '190010'
+  :kawagushiko: '190020'
+:nagano:
+  :nagano: '200010'
+  :matsumoto: '200020'
+  :iida: '200030'
+:gifu:
+  :gifu: '210010'
+  :takayama: '210020'
+:shizuoka:
+  :shizuoka: '220010'
+  :ajiro: '220020'
+  :mishima: '220030'
+  :hamamatsu: '220040'
+:aichi:
+  :nagoya: '230010'
+  :toyohashi: '230020'
+:mie:
+  :tsu: '240010'
+  :owase: '240020'
+:shiga:
+  :otsu: '250010'
+  :hikone: '250020'
+:kyoto:
+  :kyoto: '260010'
+  :maizuru: '260020'
+:osaka:
+  :osaka: '270000'
+:hyogo:
+  :kobe: '280010'
+  :toyooka: '280020'
+:nara:
+  :nara: '290010'
+  :kazeya: '290020'
+:wakayama:
+  :wakayama: '300010'
+  :shionomisaki: '300020'
+:tottori:
+  :tottori: '310010'
+  :yonago: '310020'
+:shimane:
+  :matsue: '320010'
+  :hamada: '320020'
+  :saigou: '320030'
+:okayama:
+  :okayama: '330010'
+  :tsuyama: '330020'
+:hiroshima:
+  :hiroshima: '340010'
+  :shobara: '340020'
+:yamaguchi:
+  :hiroshima: '350010'
+  :shobara: '350020'
+:tokushima:
+  :tokushima: '360010'
+  :hiwasa: '360020'
+:kagawa:
+  :takamatsu: '370000'
+:ehime:
+  :matsuyama: '380010'
+  :niihama: '380020'
+  :uwajima: '380030'
+:kochi:
+  :kochi: '390010'
+  :murotozaki: '390020'
+  :shimizu: '390030'
+:fukuoka:
+  :fukuoka: '400010'
+  :yahata: '400020'
+  :iizuka: '400030'
+  :kurume: '400040'
+:saga:
+  :saga: '410010'
+  :imari: '410020'
+:nagasaki:
+  :nagasaki: '420010'
+  :sasebo: '420020'
+  :kzuhara: '420030'
+  :kufue: '420040'
+:kumamoto:
+  :kumamoto: '430010'
+  :sasebo: '430020'
+  :ushibuka: '430030'
+  :hitoyoshi: '430040'
+:oita:
+  :oita: '440010'
+  :nakatsu: '440020'
+  :hida: '440030'
+  :saiki: '440040'
+:miyazaki:
+  :miyazaki: '450010'
+  :nobeoka: '450020'
+  :miyakonojo: '450030'
+  :takachiho: '450040'
+:kagoshima:
+  :kagoshima: '460010'
+  :kanoya: '460020'
+  :tanegashima: '460030'
+  :nase: '460040'
+:okinawa:
+  :naha: '471010'
+  :nago: '471020'
+  :kumejima: '471030'
+  :minamidaito: '472000'
+  :miyakojima: '473000'
+  :ishigakijima: '474010'
+  :yonagunijima: '474020'
