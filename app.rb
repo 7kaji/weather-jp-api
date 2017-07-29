@@ -7,6 +7,7 @@ Bundler.require
 
 class App < Sinatra::Base
   set :server, :puma
+  set :default_charset, 'utf-8'
   WEATHER_API_HOST = 'http://weather.livedoor.com'
   WEATHER_API_PATH = '/forecast/webservice/json/v1'
 
