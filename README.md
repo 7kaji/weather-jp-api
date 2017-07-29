@@ -1,4 +1,4 @@
-## :sunny: weather-api-jp :umbrella:
+## :sunny: weather-jp-api :umbrella:
 
 - GET /api/v1/japan
 - GET /api/v1/:pref_name
